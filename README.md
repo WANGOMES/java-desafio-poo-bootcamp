@@ -1,18 +1,5 @@
-## Getting Started
+## Desafio Java - Criação de um Bootcamp utilizando Programação Orientada a Objetos (POO)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desafio da DIO no Bootcamp Orange Tech do Banco Inter para a criação de um bootcamp utilizando POO e seus pilares: Abstração, Herança, Polimorfismo e Encapsulamento.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Foi utilizada a Versão 17 do Java.
